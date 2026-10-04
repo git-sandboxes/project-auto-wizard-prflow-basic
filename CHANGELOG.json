@@ -1,13 +1,24 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T17:42:30Z",
-    "currentVersion": "5.10.0",
+    "lastUpdated": "2026-10-04T17:51:58Z",
+    "currentVersion": "5.10.1",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 29
+    "totalReleases": 30
   },
   "releases": [
+    {
+      "version": "5.10.1",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 41,
+      "raw_summary": "",
+      "parsed_changes": {},
+      "parse_method": "markdown_failed"
+    },
     {
       "version": "5.10.0",
       "project_types": [
