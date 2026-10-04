@@ -1,19 +1,21 @@
 # Changelog
 
 **현재 버전:** 1.4.0  
-**마지막 업데이트:** 2026-10-04T16:45:05Z  
+**마지막 업데이트:** 2026-10-04T16:49:48Z  
 
 ---
 
 ## [1.4.0] - 2026-10-04
 
-**PR:** #9  
+**PR:** #12  
 
 **✨ 기능**
 - add login page
 - add login page
+- add login page
 
 **🐛 수정**
+- handle null user
 - handle null user
 - handle null user
 - handle null user
