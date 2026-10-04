@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T17:24:43Z",
-    "currentVersion": "5.5.0",
+    "lastUpdated": "2026-10-04T17:26:07Z",
+    "currentVersion": "5.5.1",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 23
+    "totalReleases": 24
   },
   "releases": [
+    {
+      "version": "5.5.1",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 33,
+      "raw_summary": "### 🐛 수정\n- handle null user",
+      "parsed_changes": {
+        "fix": {
+          "title": "🐛 수정",
+          "items": [
+            "handle null user"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "5.5.0",
       "project_types": [
