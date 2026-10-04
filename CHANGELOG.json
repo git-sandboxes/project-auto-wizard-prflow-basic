@@ -1,13 +1,37 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T16:54:27Z",
-    "currentVersion": "2.0.0",
+    "lastUpdated": "2026-10-04T16:55:25Z",
+    "currentVersion": "3.0.0",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 6
+    "totalReleases": 7
   },
   "releases": [
+    {
+      "version": "3.0.0",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 17,
+      "raw_summary": "### ⚠️ 호환성 깨짐\n- tokens are now opaque\n\n### 🐛 수정\n- change token format",
+      "parsed_changes": {
+        "breaking": {
+          "title": "⚠️ 호환성 깨짐",
+          "items": [
+            "tokens are now opaque"
+          ]
+        },
+        "fix": {
+          "title": "🐛 수정",
+          "items": [
+            "change token format"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "2.0.0",
       "project_types": [
