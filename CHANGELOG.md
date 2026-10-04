@@ -1,7 +1,24 @@
 # Changelog
 
-**현재 버전:** 1.4.1  
-**마지막 업데이트:** 2026-10-04T16:51:46Z  
+**현재 버전:** 1.5.0  
+**마지막 업데이트:** 2026-10-04T16:53:24Z  
+
+---
+
+## [1.5.0] - 2026-10-04
+
+**PR:** #15  
+
+**✨ 기능**
+- add login page
+
+**🐛 수정**
+- handle null user
+- handle null user
+
+**🔧 변경사항**
+- set release_automerge true
+- set release_automerge false
 
 ---
 
