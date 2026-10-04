@@ -1,13 +1,37 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T16:57:39Z",
-    "currentVersion": "3.1.0",
+    "lastUpdated": "2026-10-04T16:59:04Z",
+    "currentVersion": "4.0.0",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 8
+    "totalReleases": 9
   },
   "releases": [
+    {
+      "version": "4.0.0",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 19,
+      "raw_summary": "### ⚠️ 호환성 깨짐\n- drop legacy config\n\n### ✨ 기능\n- add extra",
+      "parsed_changes": {
+        "breaking": {
+          "title": "⚠️ 호환성 깨짐",
+          "items": [
+            "drop legacy config"
+          ]
+        },
+        "feat": {
+          "title": "✨ 기능",
+          "items": [
+            "add extra"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "3.1.0",
       "project_types": [
