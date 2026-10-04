@@ -1,13 +1,43 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T18:15:43Z",
-    "currentVersion": "5.12.8",
+    "lastUpdated": "2026-10-04T18:17:54Z",
+    "currentVersion": "5.12.9",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 40
+    "totalReleases": 41
   },
   "releases": [
+    {
+      "version": "5.12.9",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": null,
+      "raw_summary": "### 🐛 수정\n- handle null user\n\n### 📝 문서\n- touch changelog\n\n### 🔧 변경사항\n- touch version.yml metadata",
+      "parsed_changes": {
+        "fix": {
+          "title": "🐛 수정",
+          "items": [
+            "handle null user"
+          ]
+        },
+        "docs": {
+          "title": "📝 문서",
+          "items": [
+            "touch changelog"
+          ]
+        },
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "touch version.yml metadata"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "5.12.8",
       "project_types": [
