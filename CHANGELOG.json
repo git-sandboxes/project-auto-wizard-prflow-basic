@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T16:43:08Z",
+    "lastUpdated": "2026-10-04T16:45:05Z",
     "currentVersion": "1.4.0",
     "projectTypes": [
       "basic"
@@ -14,18 +14,20 @@
         "basic"
       ],
       "date": "2026-10-04",
-      "pr_number": 6,
-      "raw_summary": "### ✨ 기능\n- add login page\n\n### 🐛 수정\n- handle null user\n- handle null user\n\n### 🔧 변경사항\n- set release_automerge false",
+      "pr_number": 9,
+      "raw_summary": "### ✨ 기능\n- add login page\n- add login page\n\n### 🐛 수정\n- handle null user\n- handle null user\n- handle null user\n\n### 🔧 변경사항\n- set release_automerge false",
       "parsed_changes": {
         "feat": {
           "title": "✨ 기능",
           "items": [
+            "add login page",
             "add login page"
           ]
         },
         "fix": {
           "title": "🐛 수정",
           "items": [
+            "handle null user",
             "handle null user",
             "handle null user"
           ]
