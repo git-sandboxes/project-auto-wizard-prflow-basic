@@ -1,13 +1,38 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T17:15:01Z",
-    "currentVersion": "5.1.0",
+    "lastUpdated": "2026-10-04T17:16:35Z",
+    "currentVersion": "5.1.1",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 17
+    "totalReleases": 18
   },
   "releases": [
+    {
+      "version": "5.1.1",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 28,
+      "raw_summary": "### 🐛 수정\n- handle null user\n\n### 🔧 변경사항\n- set release_automerge false\n- set release_automerge true",
+      "parsed_changes": {
+        "fix": {
+          "title": "🐛 수정",
+          "items": [
+            "handle null user"
+          ]
+        },
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "set release_automerge false",
+            "set release_automerge true"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "5.1.0",
       "project_types": [
