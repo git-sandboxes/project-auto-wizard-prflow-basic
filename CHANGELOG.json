@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T17:04:47Z",
-    "currentVersion": "5.0.3",
+    "lastUpdated": "2026-10-04T17:06:23Z",
+    "currentVersion": "5.0.4",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 13
+    "totalReleases": 14
   },
   "releases": [
+    {
+      "version": "5.0.4",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 24,
+      "raw_summary": "### 📝 문서\n- update readme",
+      "parsed_changes": {
+        "docs": {
+          "title": "📝 문서",
+          "items": [
+            "update readme"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "5.0.3",
       "project_types": [
