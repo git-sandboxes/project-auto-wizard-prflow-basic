@@ -1,13 +1,37 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-04T17:17:28Z",
-    "currentVersion": "5.2.0",
+    "lastUpdated": "2026-10-04T17:19:03Z",
+    "currentVersion": "5.3.0",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 19
+    "totalReleases": 20
   },
   "releases": [
+    {
+      "version": "5.3.0",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-04",
+      "pr_number": 29,
+      "raw_summary": "### ✨ 기능\n- add login page\n\n### 🔧 변경사항\n- set release_automerge true",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ 기능",
+          "items": [
+            "add login page"
+          ]
+        },
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "set release_automerge true"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "5.2.0",
       "project_types": [
