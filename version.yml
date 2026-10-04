@@ -41,7 +41,7 @@ project_types: ["basic"] # first entry is primary
 language: "ko" # message language: en | ko
 metadata:
   last_updated: "2026-10-04"
-  last_updated_by: "Chuseok22"
+  last_updated_by: "e2e"
   default_branch: "main"
   integration_date: "2026-10-04"
   template:
